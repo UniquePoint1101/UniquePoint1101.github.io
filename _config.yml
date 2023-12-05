@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "UniquePoint"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UniquePoint의 개발 블로그 입니다."
+  bio              : "UniPo's 개발 블로그"
   location         : "South Korea"
   email            : "uniquepoint1101@naver.com"
   links:
