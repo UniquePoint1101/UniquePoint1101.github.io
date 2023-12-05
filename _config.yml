@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko_KR"
 title                    : "UniquePoint's Blog"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "small and positive habits" # site tagline that appears below site title in masthead
 name                     : "UniquePoint"
 description              : "UniquePoint's study blog"
 url                      : "https://UniquePoint1101.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "UniquePoint"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UniquePoint's study blog"
+  bio              : "UniquePoint의 개발 블로그 입니다."
   location         : "South Korea"
   email            : "uniquepoint1101@naver.com"
   links:
